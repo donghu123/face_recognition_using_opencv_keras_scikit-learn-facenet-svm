@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 基于Facenet和SVM的实时人脸识别
 详细说明参考文章[SVM、Pickle vs HDF5、性能和日志](https://www.imooc.com/article/286128)或[项目Wiki](https://github.com/seed-fe/face_recognition_using_opencv_keras_scikit-learn/wiki)。
 
@@ -6,3 +7,6 @@
 =======
 # facenet_facerecognition
 >>>>>>> afea025daa025e8037891a27200cb6091c4706d3
+=======
+# face_recognition_using_opencv_keras_scikit-learn-facenet-svm
+>>>>>>> 1c158ef428c43e200f1446a8796a0e71ef5e96a0
